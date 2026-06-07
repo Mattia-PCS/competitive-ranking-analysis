@@ -1,4 +1,4 @@
-# Competitive Ranking Analysis
+# Competitive Ranking Analysis ( WORK IN PROGRESS )
 
 A Big Data and Network Analysis project focused on understanding player performance, rating progression, and behavioral patterns in competitive multiplayer environments.
 
