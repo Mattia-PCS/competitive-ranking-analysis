@@ -1,0 +1,5 @@
+,dataset,relationship,pearson_corr
+0,Community A,matches_played_vs_current_mmr,0.7842781139775676
+1,Community A,matches_played_vs_win_rate,-0.0885462992847154
+2,Community B,matches_played_vs_current_mmr,0.6453077636084078
+3,Community B,matches_played_vs_win_rate,-0.16175857134946325
